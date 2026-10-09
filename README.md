@@ -1,1 +1,3 @@
-# subscriptions-ltv
+# Subscriptions LTV
+
+Project exploring simulated subscriptions data.
